@@ -22,11 +22,11 @@ msgstr "Troca o teu"
 
 msgctxt "#31001"
 msgid ":"
-msgstr ""
+msgstr ":"
 
 msgctxt "#31002"
 msgid "Enable manual opening of media views slide menu"
-msgstr ""
+msgstr "Habilitar a apertura manual do deslizamento de menú de vistas de medios"
 
 msgctxt "#31003"
 msgid "Power options"
@@ -46,7 +46,7 @@ msgstr "Opcións da vista"
 
 msgctxt "#31007"
 msgid "Video process information"
-msgstr ""
+msgstr "Información de proceso de vídeo"
 
 msgctxt "#31008"
 msgid "Full screen"
@@ -62,7 +62,7 @@ msgstr "Decodificación hardware"
 
 msgctxt "#31011"
 msgid "Inactive"
-msgstr "Inactivo"
+msgstr "Inativo"
 
 msgctxt "#31012"
 msgid "Decoder"
@@ -70,7 +70,7 @@ msgstr "Decodificador"
 
 msgctxt "#31013"
 msgid "Audio process information"
-msgstr ""
+msgstr "Información de proceso de audio"
 
 msgctxt "#31014"
 msgid "Memory used"
@@ -78,35 +78,35 @@ msgstr "Memoria empregada"
 
 msgctxt "#31015"
 msgid "Never"
-msgstr ""
+msgstr "Nunca"
 
 msgctxt "#31016"
 msgid "Permanently"
-msgstr ""
+msgstr "Permanentemente"
 
 msgctxt "#31017"
 msgid "Info button"
-msgstr ""
+msgstr "Botón de info"
 
 msgctxt "#31018"
 msgid "Last video played"
-msgstr ""
+msgstr "Último vídeo reproducido"
 
 msgctxt "#31019"
 msgid "Eject or load DVD drive"
-msgstr ""
+msgstr "Expulsar ou cargar a unidade DVD"
 
 msgctxt "#31020"
 msgid "Automatic suggestion"
-msgstr ""
+msgstr "Suxestión automática"
 
 msgctxt "#31021"
 msgid "Enable trailers button"
-msgstr ""
+msgstr "Habilitar botón de trailers"
 
 msgctxt "#31022"
 msgid "Enable playlist at startup"
-msgstr ""
+msgstr "Habilitar lista de reprodución ao inicio"
 
 msgctxt "#31023"
 msgid "Playing"
@@ -130,15 +130,15 @@ msgstr "Localización"
 
 msgctxt "#31028"
 msgid "Poster wrap"
-msgstr "Envoltorio de cartel"
+msgstr "Envoltorio de cartaz"
 
 msgctxt "#31029"
 msgid "Fanart"
-msgstr "Cartel"
+msgstr "Fanart"
 
 msgctxt "#31030"
 msgid "Full wall"
-msgstr ""
+msgstr "Muro completo"
 
 msgctxt "#31031"
 msgid "Pic thumbs"
@@ -154,23 +154,23 @@ msgstr "Info"
 
 msgctxt "#31034"
 msgid "Enable media info on fullscreen playback"
-msgstr ""
+msgstr "Habilitar info de medios en reprodución a pantalla completa"
 
 msgctxt "#31035"
 msgid "Use extra thumbs"
-msgstr ""
+msgstr "Utilizar miniaturas extra"
 
 msgctxt "#31036"
 msgid "Please set path to UPnP server"
-msgstr ""
+msgstr "Por favor definir a ruta do servidor UPnP"
 
 msgctxt "#31038"
 msgid "Select item to swap"
-msgstr ""
+msgstr "Selecionar elemento a intercambiar"
 
 msgctxt "#31039"
 msgid "Actions"
-msgstr "Accións"
+msgstr "Acións"
 
 msgctxt "#31040"
 msgid "Now playing"
@@ -178,7 +178,7 @@ msgstr "Reproducindo"
 
 msgctxt "#31041"
 msgid "UPnP error"
-msgstr ""
+msgstr "Erro no UPnP"
 
 msgctxt "#31042"
 msgid "PLAYING"
@@ -190,7 +190,7 @@ msgstr "EN PAUSA"
 
 msgctxt "#31044"
 msgid "FAST FORWARD"
-msgstr "AXIÑA ADIANTE"
+msgstr "ADIANTAR"
 
 msgctxt "#31045"
 msgid "REWIND"
@@ -198,15 +198,15 @@ msgstr "REBOBINAR"
 
 msgctxt "#31046"
 msgid "SEEKING"
-msgstr "BUSCANDO"
+msgstr "PROCURANDO"
 
 msgctxt "#31047"
 msgid "PLAY SPEED"
-msgstr ""
+msgstr "VELOCIDADE DE REPRODUCIÓN"
 
 msgctxt "#31048"
 msgid "Visualisation presets"
-msgstr "Preconfiguracións de visualizacións"
+msgstr "Preconfiguracións de visualización"
 
 msgctxt "#31049"
 msgid "End time"
@@ -222,171 +222,171 @@ msgstr "Ordenar: Descendente"
 
 msgctxt "#31052"
 msgid "New banners"
-msgstr ""
+msgstr "Faixas novas"
 
 msgctxt "#31053"
 msgid "Watched banners"
-msgstr ""
+msgstr "Faixas vistas"
 
 msgctxt "#31055"
 msgid "Open playlist"
-msgstr "Abrir listaxe de reprodución"
+msgstr "Abrir lista de reprodución"
 
 msgctxt "#31056"
 msgid "Save playlist"
-msgstr "Gardar listaxe de reprodución"
+msgstr "Gardar lista de reprodución"
 
 msgctxt "#31057"
 msgid "Close playlist"
-msgstr "Pechar listaxe de reprodución"
+msgstr "Pechar lista de reprodución"
 
 msgctxt "#31058"
 msgid "System music files"
-msgstr "Ficheiros de música do sistema"
+msgstr "Arquivos de música do sistema"
 
 msgctxt "#31059"
 msgid "Current playlist"
-msgstr "Listaxe de reprodución actual"
+msgstr "Lista de reprodución actual"
 
 msgctxt "#31061"
 msgid "Current selected"
-msgstr "Seleccionado actualmente"
+msgstr "Selecionado actualmente"
 
 msgctxt "#31062"
 msgid "Episode backdrop"
-msgstr ""
+msgstr "Capítulos precedentes"
 
 msgctxt "#31063"
 msgid "Show volume buttons"
-msgstr ""
+msgstr "Amosar botóns de volume"
 
 msgctxt "#31064"
 msgid "Volume buttons small jump"
-msgstr ""
+msgstr "Salto pequeno nos botóns de volume"
 
 msgctxt "#31065"
 msgid "Favourites button action"
-msgstr ""
+msgstr "Ación do botón de favoritos"
 
 msgctxt "#31066"
 msgid "Enable original confluence popup seek bar"
-msgstr ""
+msgstr "Habilitar que se amose a banda de procura orixinal de confluence"
 
 msgctxt "#31067"
 msgid "Enable CD wall as fallback background of playing albums"
-msgstr ""
+msgstr "Habilitar amosar de fondo a capa do CD dos álbums reproducidos"
 
 msgctxt "#31068"
 msgid "Enable fanart animation of playing media"
-msgstr ""
+msgstr "Habilitar animación de fanart dos medios reproducidos"
 
 msgctxt "#31069"
 msgid "Enable home floor"
-msgstr ""
+msgstr "Habilitar chan na pantalla principal"
 
 msgctxt "#31070"
 msgid "Enable list item background fanart"
-msgstr ""
+msgstr "Habilitar fanart de fondo nas listas de elementos"
 
 msgctxt "#31071"
 msgid "Enable now playing info"
-msgstr ""
+msgstr "Habilitar información do reproducido agora"
 
 msgctxt "#31072"
 msgid "Home top left info area"
-msgstr ""
+msgstr "Zona de info da parte superior esquerda da pantalla principal"
 
 msgctxt "#31073"
 msgid "Enable home stats bar"
-msgstr ""
+msgstr "Habilitar a barra de estatísticas na pantalla principal"
 
 msgctxt "#31074"
 msgid "Enable large home widgets"
-msgstr ""
+msgstr "Habilitar widgets grandes na pantalla principal"
 
 msgctxt "#31075"
 msgid "Enable episode thumbnails"
-msgstr ""
+msgstr "Habilitar miniaturas de capítulos"
 
 msgctxt "#31076"
 msgid "Enable raindrop effect"
-msgstr ""
+msgstr "Habilitar o efecto choiva"
 
 msgctxt "#31077"
 msgid "Shutdown menu"
-msgstr ""
+msgstr "Menú pechar"
 
 msgctxt "#31078"
 msgid "Power button action"
-msgstr ""
+msgstr "Ación do botón pechar"
 
 msgctxt "#31079"
 msgid "Hide power button"
-msgstr ""
+msgstr "Agochar o botón pechar"
 
 msgctxt "#31080"
 msgid "Floor button options"
-msgstr ""
+msgstr "Opcións dos botóns do chan"
 
 msgctxt "#31081"
 msgid "Enable clock and date display"
-msgstr ""
+msgstr "Amosar reloxo e data"
 
 msgctxt "#31082"
 msgid "Profile (if not master)"
-msgstr ""
+msgstr "Perfil (se non é o mestre)"
 
 msgctxt "#31083"
 msgid "Kodi icon"
-msgstr ""
+msgstr "Icona de Kodi"
 
 msgctxt "#31084"
 msgid "Enable kodi intro movie"
-msgstr ""
+msgstr "Habilitar o vídeo de introdución de Kodi"
 
 msgctxt "#31085"
 msgid "Shuffle on"
-msgstr ""
+msgstr "Aleatorizar en"
 
 msgctxt "#31086"
 msgid "Repeat all on"
-msgstr ""
+msgstr "Repetir todo en"
 
 msgctxt "#31087"
 msgid "Repeat one on"
-msgstr ""
+msgstr "Repetir unha en"
 
 msgctxt "#31088"
 msgid "of"
-msgstr ""
+msgstr "de"
 
 msgctxt "#31089"
 msgid "Enable PVR recording info"
-msgstr ""
+msgstr "Habilitar info de gravación de PVR"
 
 msgctxt "#31090"
 msgid "Use wide banners"
-msgstr ""
+msgstr "Utilizar faixas anchas"
 
 msgctxt "#31091"
 msgid "Wake on lan ping"
-msgstr ""
+msgstr "Ping de Wake-On-Lan"
 
 msgctxt "#31092"
 msgid "FF:FF:FF:FF:FF:FF "
-msgstr ""
+msgstr "FF:FF:FF:FF:FF:FF "
 
 msgctxt "#31093"
 msgid "Ping MAC address"
-msgstr ""
+msgstr "Ping de enderezos MAC"
 
 msgctxt "#31094"
 msgid "Enable WOL ping"
-msgstr ""
+msgstr "Habilitar ping de WOL"
 
 msgctxt "#31095"
 msgid "WOL ping timer"
-msgstr ""
+msgstr "Temporizador de ping de WOL"
 
 msgctxt "#31096"
 msgid "Enable suggested movies or TV shows info"
@@ -394,23 +394,23 @@ msgstr ""
 
 msgctxt "#31097"
 msgid "Enable Floor Return Buttons (for touch)"
-msgstr ""
+msgstr "Habilitar os botóns de voltar do chan (para tátil)"
 
 msgctxt "#31098"
 msgid "Top left widget on all screens"
-msgstr ""
+msgstr "Widget na parte superior esquerda en tódalas pantallas"
 
 msgctxt "#31099"
 msgid "Use extra fanart on navigation"
-msgstr ""
+msgstr "Usar fanart extra na navegación"
 
 msgctxt "#31100"
 msgid "Weather fanart"
-msgstr ""
+msgstr "Fanart do tempo"
 
 msgctxt "#31101"
 msgid "Home screen options"
-msgstr "Opcións da pantalla de inicio"
+msgstr "Opcións da pantalla principal"
 
 msgctxt "#31102"
 msgid "Background"
@@ -426,7 +426,7 @@ msgstr "Reproducir avances nunha xanela [COLOR=grey3](Só diálogo de informaci�
 
 msgctxt "#31105"
 msgid "Artwork"
-msgstr ""
+msgstr "Arte"
 
 msgctxt "#31106"
 msgid "Miscellaneous options"
@@ -434,7 +434,7 @@ msgstr "Outras opcións"
 
 msgctxt "#31107"
 msgid "Hide flagging read from video filenames [COLOR=grey3](e.g. Blu-ray, HD-DVD)[/COLOR]"
-msgstr "Agochar a lectura da marcaxe dende os nomes dos videos [COLOR=grey3](Blu-ray, HD-DVD)[/COLOR]"
+msgstr "Agochar a lectura da marcaxe dende os nomes dos vídeos [COLOR=grey3](Blu-ray, HD-DVD)[/COLOR]"
 
 msgctxt "#31108"
 msgid "Hide main menu buttons"
@@ -442,7 +442,7 @@ msgstr "Ocultar botóns do menú principal"
 
 msgctxt "#31109"
 msgid "Enable custom background"
-msgstr "Activar fondo personalizado"
+msgstr "Habilitar fondo personalizado"
 
 msgctxt "#31110"
 msgid "Background path:"
@@ -458,15 +458,15 @@ msgstr "Opcións"
 
 msgctxt "#31113"
 msgid "Choices"
-msgstr ""
+msgstr "Eleccións"
 
 msgctxt "#31114"
 msgid "UPnP media"
-msgstr ""
+msgstr "Medios UPnP"
 
 msgctxt "#31115"
 msgid "UPnP"
-msgstr ""
+msgstr "UPnP"
 
 msgctxt "#31116"
 msgid "Show recently added albums"
@@ -478,19 +478,19 @@ msgstr "Amosar vídeos engadidos recentemente"
 
 msgctxt "#31118"
 msgid "Home page programs submenu"
-msgstr "Submenú de Aplicacións da Páxina de Inicio"
+msgstr "Submenú de Aplicacións da Páxina Principal"
 
 msgctxt "#31119"
 msgid "Hide background fanart"
-msgstr "Agochar o fondo do cartel"
+msgstr "Agochar fanart de fondo"
 
 msgctxt "#31120"
 msgid "Hide page count info"
-msgstr ""
+msgstr "Agochar o número de páxina"
 
 msgctxt "#31121"
 msgid "Show plot info on info screen"
-msgstr ""
+msgstr "Amosar o argumento na pantalla de info"
 
 msgctxt "#31122"
 msgid "Hide EPG if RDS is present on channel window"
@@ -498,7 +498,7 @@ msgstr "Ocultar EPG se RDS está presente na xanela da canle"
 
 msgctxt "#31123"
 msgid "Popup:"
-msgstr ""
+msgstr "Popup"
 
 msgctxt "#31124"
 msgid "Show background \"Now playing\" video"
@@ -510,7 +510,7 @@ msgstr "Amosar a visualización 'En Reprodución' no fondo"
 
 msgctxt "#31127"
 msgid "TvTunes"
-msgstr ""
+msgstr "Sintonización TV"
 
 msgctxt "#31128"
 msgid "Lyrics"
@@ -518,15 +518,15 @@ msgstr "Letras"
 
 msgctxt "#31129"
 msgid "Hide fanart in full screen visualisation"
-msgstr "Agochar cartel na visualización de pantalla completa"
+msgstr "Agochar fanart na visualización de pantalla completa"
 
 msgctxt "#31130"
 msgid "Hide favorites button"
-msgstr ""
+msgstr "Agochar o botón de favoritos"
 
 msgctxt "#31131"
 msgid "Hide top left info on windows"
-msgstr ""
+msgstr "Agochar a información da parte superior esquerda en xanelas"
 
 msgctxt "#31132"
 msgid "Lyrics add-on"
@@ -534,31 +534,31 @@ msgstr "Complemento de letras"
 
 msgctxt "#31133"
 msgid "Minimize on exit button"
-msgstr ""
+msgstr "Minimizar co botón de pechar"
 
 msgctxt "#31134"
 msgid "Home page \"Videos\" submenu"
-msgstr "Submenú de Vídeos da Páxina de Inicio"
+msgstr "Pantalla principal \ "Vídeos\" submenú"
 
 msgctxt "#31135"
 msgid "Home page \"Music\" submenu"
-msgstr "Submenú de Música da Páxina de Inicio"
+msgstr "Pantalla principal \ "Música\" submenú"
 
 msgctxt "#31136"
 msgid "Home page \"Pictures\" submenu"
-msgstr "Submenú de Imaxes da Páxina de Inicio"
+msgstr "Pantalla principal \ "Imaxes\" submenú"
 
 msgctxt "#31137"
 msgid "Enable low main menu bar"
-msgstr ""
+msgstr "Habilitar barra inferior na pantalla principal"
 
 msgctxt "#31138"
 msgid "Play party mode music on screensaver"
-msgstr ""
+msgstr "Reproducir música en modo festa co salvapantallas"
 
 msgctxt "#31139"
 msgid "Enable automatic fullscreen music playback"
-msgstr ""
+msgstr "Habilitar a reprodución de música a pantalla completa automaticamente"
 
 msgctxt "#31140"
 msgid "Music OSD"
@@ -566,107 +566,107 @@ msgstr "OSD de Música"
 
 msgctxt "#31142"
 msgid "Settings level"
-msgstr "Nivel de configuración"
+msgstr "Nível de configuración"
 
 msgctxt "#31143"
 msgid "Kodi"
-msgstr ""
+msgstr "Kodi"
 
 msgctxt "#31144"
 msgid "Windows home server"
-msgstr ""
+msgstr "Windows home server"
 
 msgctxt "#31145"
 msgid "Plex"
-msgstr ""
+msgstr "Plex"
 
 msgctxt "#31146"
 msgid "Enable busy animation"
-msgstr ""
+msgstr "Habilitar animación de ocupada"
 
 msgctxt "#31147"
 msgid "Setup UPnP library"
-msgstr ""
+msgstr "Configurar biblioteca UPnP"
 
 msgctxt "#31148"
 msgid "Enable UPnP client mode"
-msgstr ""
+msgstr "Habilitar modo cliente de UPnP"
 
 msgctxt "#31149"
 msgid "UPnP server type"
-msgstr ""
+msgstr "Tipo de servidor UPnP"
 
 msgctxt "#31150"
 msgid "Select UPnP server"
-msgstr ""
+msgstr "Elexir servidor UPnP"
 
 msgctxt "#31151"
 msgid "Restart kodi instead of system reboot"
-msgstr ""
+msgstr "Reiniciar kodi no canto de reiniciar o sistema"
 
 msgctxt "#31152"
 msgid "Enable kiosk mode"
-msgstr ""
+msgstr "Habilitar o modo quiosque"
 
 msgctxt "#31153"
 msgid "Show minimal picture info"
-msgstr ""
+msgstr "Amosar info de imaxe mínima"
 
 msgctxt "#31154"
 msgid "Notifications at top left"
-msgstr ""
+msgstr "Notificacións na parte superior esquerda"
 
 msgctxt "#31155"
 msgid "Show global search button on bottom left"
-msgstr ""
+msgstr "Amosor o botón de procura global na parte inferior esquerda"
 
 msgctxt "#31188"
 msgid "Random concerts"
-msgstr ""
+msgstr "Concertos aleatorios"
 
 msgctxt "#31189"
 msgid "Recent concerts"
-msgstr ""
+msgstr "Concertos recentes"
 
 msgctxt "#31190"
 msgid "Random albums"
-msgstr ""
+msgstr "Álbumes aleatorios"
 
 msgctxt "#31191"
 msgid "Suggested albums"
-msgstr ""
+msgstr "Álbumes suxeridos"
 
 msgctxt "#31192"
 msgid "Recent albums"
-msgstr ""
+msgstr "Álbumes recentes"
 
 msgctxt "#31193"
 msgid "Random episodes"
-msgstr ""
+msgstr "Capítulos aleatorios"
 
 msgctxt "#31194"
 msgid "Suggested episodes"
-msgstr ""
+msgstr "Capítulos suxeridos"
 
 msgctxt "#31195"
 msgid "Recent episodes"
-msgstr ""
+msgstr "Capítulos recentes"
 
 msgctxt "#31196"
 msgid "Random movies"
-msgstr ""
+msgstr "Filmes aleatorios"
 
 msgctxt "#31197"
 msgid "Suggested movies"
-msgstr ""
+msgstr "Filmes suxeridos"
 
 msgctxt "#31198"
 msgid "Recent movies"
-msgstr ""
+msgstr "Filmes recentes"
 
 msgctxt "#31199"
 msgid "Suggested concerts"
-msgstr ""
+msgstr "Concertos suxeridos"
 
 msgctxt "#31200"
 msgid "Shortcuts"
@@ -674,11 +674,11 @@ msgstr "Atallos"
 
 msgctxt "#31201"
 msgid "Custom widgets"
-msgstr ""
+msgstr "Widgets personalizados"
 
 msgctxt "#31202"
 msgid "Custom:"
-msgstr ""
+msgstr "Personalizada:"
 
 msgctxt "#31203"
 msgid "Choose your song"
@@ -686,7 +686,7 @@ msgstr "Escolle a túa canción"
 
 msgctxt "#31204"
 msgid "ExtendedInfo"
-msgstr ""
+msgstr "Máis Información"
 
 msgctxt "#31205"
 msgid "Lyrics source"
